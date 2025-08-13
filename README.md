@@ -1,2 +1,1 @@
-# sample
-GitHub-Mobile-Clone
+
